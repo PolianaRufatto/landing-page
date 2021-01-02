@@ -4951,10 +4951,10 @@ graceful-fs@^4.1.10, graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.
   resolved "https://registry.yarnpkg.com/graceful-readlink/-/graceful-readlink-1.0.1.tgz#4cafad76bc62f02fa039b2f94e9a3dd3a391a725"
   integrity sha1-TK+tdrxi8C+gObL5Tpo906ORpyU=
 
-graphql-request@^3.3.0:
-  version "3.3.0"
-  resolved "https://artifactory.softplan.com.br/artifactory/api/npm/npm/graphql-request/-/graphql-request-3.3.0.tgz#1b9003f34b73cd40d691803d2d422fde5c713af3"
-  integrity sha1-G5AD80tzzUDWkYA9LUIv3lxxOvM=
+graphql-request@^3.4.0:
+  version "3.4.0"
+  resolved "https://artifactory.softplan.com.br/artifactory/api/npm/npm/graphql-request/-/graphql-request-3.4.0.tgz#3a400cd5511eb3c064b1873afb059196bbea9c2b"
+  integrity sha1-OkAM1VEes8BksYc6+wWRlrvqnCs=
   dependencies:
     cross-fetch "^3.0.6"
     extract-files "^9.0.0"
